@@ -1,0 +1,36 @@
+body{
+    background-image: url(Fundo.jpg);
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+
+div{
+    background-color: white;
+    background-size: cover;
+   border: solid, black, 2px;
+   width: 30%;
+   align-items: center;
+   margin: auto;
+   margin-top: 200px;
+   text-align: center;
+   border-radius: 17%;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+.input-text{
+    width:200px;
+    height: 25px;
+   
+}
+
+.pinto{
+   
+    height: 500px;
+    background-color: black(255, 255, 255, 0.651);
+}

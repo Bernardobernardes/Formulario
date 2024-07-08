@@ -1,0 +1,17 @@
+div{
+    background-color: white;
+    background-size: cover;
+    border: solid, black, 2px;
+    width: 30%;
+    align-items: center;
+    margin: auto;
+    margin-top: 200px;
+    text-align: center;
+    border-radius: 17%;
+ }
+
+ body{
+    background-image: url(Fundo.jpg);
+    background-repeat: repeat-y;
+    background-size: cover;
+ }
