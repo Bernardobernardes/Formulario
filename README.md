@@ -1,2 +1,2 @@
 # Formulario
-<img src= "ATV.png" alt = "">
+<img src= "ATV.PNG" alt = "">
